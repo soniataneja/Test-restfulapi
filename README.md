@@ -14,7 +14,7 @@ The python requirement which is needed in order to run the app can be found in f
 
 Person entities are stored in the data.json
 
-How to build:
+How to run the code:
 
 python app.py data.json
 
